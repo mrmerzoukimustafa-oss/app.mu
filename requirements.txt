@@ -1,5 +1,0 @@
-streamlit
-pandas
-openpyxl
-reportlab
-pip install -r requirements.txt
